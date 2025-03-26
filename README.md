@@ -70,3 +70,5 @@ The dataset used for training the model is available on youdata.ai. Please downl
 **Web Application**
 
 The web application is built using Django. It provides a simple interface for users to input their data and receive a loan prediction.
+
+Finish
